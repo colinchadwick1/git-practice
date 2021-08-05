@@ -1,0 +1,3 @@
+Name: Colin
+Age: 27
+Favourite Colour: Yellow
